@@ -7,7 +7,7 @@ git
 ci.git' 
 } 
 } 
-url: 'https://github.com/your-username/jenkins-website
+url: 'https://github.com/kanlily/jenkins-website
 stage('Build Website') { 
 steps { 
 sh './hello.sh' 
